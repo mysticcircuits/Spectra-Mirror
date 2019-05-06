@@ -12,6 +12,9 @@ but would be quite easy for anyone with a fair amount of DIY experience.  The ca
 least a multimeter and benefits from the use of an oscilloscope, although again this is not crucial.  Please read 
 the build documentation if you want a better idea of the level of difficulty for the build.
 
+For any questions or comments please visit the MW thread here 
+https://www.muffwiggler.com/forum/viewtopic.php?p=2418444#2418444
+
 ========= FOR THOSE ATTEMPTING THE MATCHED TRANSISTOR PAIR =========
 
 The following parts will be needed.  I am specifically making you source them as a "barrier for entry" as doing 
